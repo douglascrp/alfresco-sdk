@@ -26,3 +26,5 @@ services:
             - SOLR_CREATE_ALFRESCO_DEFAULTS=alfresco,archive
         volumes:
           - ./data/solr-data:/opt/alfresco-search-services/data
+        ports:
+            - 8983:8983
