@@ -34,7 +34,7 @@
             executing for example $ mvn clean install alfresco:run -->
         <alfresco.platform.version>6.0.7-ga</alfresco.platform.version>
         <!-- Alfresco Share version, so we can bring in correct alfresco-share-services artifact -->
-        <alfresco.share.version>6.0.c</alfresco.share.version>
+        <alfresco.share.version>6.0.b</alfresco.share.version>
 
 
 
